@@ -1,4 +1,5 @@
 class Dog
+  initialize
 end
 
 fido = new Dog
